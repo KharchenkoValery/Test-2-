@@ -1,0 +1,28 @@
+* {
+    font-size: 28px;
+}
+.schetchik {
+    background-color: yellowgreen;
+    padding: 50px;
+    border-radius: 7px;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    flex-direction: column;
+    width: 500px;
+    height: 500px;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+input {
+    border-radius: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+p {
+    padding: 10px;
+}
