@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Black tea",
+        "facts": "Brewed color: from light golden to rich brown"
+        
+    },
+    {
+        "name": "Oolong",
+        "facts": "Fermentation percentage: 50%"
+    },
+    {
+        "name": "Puer",
+        "facts": "How much caffeine: 15-60 mg per 220 ml cup"
+    },
+    {
+        "name": "White tea",
+        "facts": "What is it: a type of tea that undergoes weak fermentation (oxidation)"
+    },
+    {
+        "name":"Da hong pao",
+        "facts":"The autumn Da Hong Pao varieties are considered the most fragrant and rich in taste."
+    },
+    {
+        "name":"Earl Grey",
+        "facts":"Prevalence: one of the most common varieties of flavored tea"
+    }
+]
