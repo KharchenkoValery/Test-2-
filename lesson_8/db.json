@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "123",
+      "name": "Anna",
+      "email": "anna@gmail.com",
+      "username": "anna123"
+    },
+    {
+      "id": "2c5a",
+      "name": "scvcas",
+      "email": "svsv",
+      "username": "svsvsv"
+    },
+    {
+      "id": "dbf1",
+      "name": "svsava",
+      "email": "vasvasvas",
+      "username": "savas"
+    },
+    {
+      "id": "ea45",
+      "name": "wfwf",
+      "email": "wfwf",
+      "username": "wfwf"
+    },
+    {
+      "id": "0181",
+      "name": "sgvas",
+      "email": "asgasf",
+      "username": "asgsga"
+    }
+  ]
+}
